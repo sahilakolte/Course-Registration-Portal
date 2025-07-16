@@ -2,7 +2,7 @@
 # Course Registration Portal (Academia)
 
 ## Overview
-This project is a socket-based, multi-user Course Registration Portal developed for academic institutions. It provides role-based access for **Admin**, **Faculty**, and **Student** users, enabling functionalities like course management, enrollment, and user management. The system ensures secure login, data consistency, and concurrent client handling using file management, file locking, and semaphores.
+This project is a socket-based, multi-user Course Registration Portal. It provides role-based access for **Admin**, **Faculty**, and **Student** users, enabling functionalities like course management, enrollment, and user management. The system ensures secure login, data consistency, and concurrent client handling using file management, file locking, and semaphores.
 
 ---
 

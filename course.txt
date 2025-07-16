@@ -1,0 +1,5 @@
+101 Python faculty2
+102 C++ faculty1
+103 OS faculty2
+104 Java faculty1
+201 CG faculty1
